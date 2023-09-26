@@ -1,2 +1,0 @@
-name, age, color
-anh, 10, pink
